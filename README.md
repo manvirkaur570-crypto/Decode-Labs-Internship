@@ -26,6 +26,4 @@ This is a simple AI chatbot project developed using Python.The chatbot can answe
 4. Run the project:
    python app.py
    
-
-##Your Name
 Manvir Kaur
