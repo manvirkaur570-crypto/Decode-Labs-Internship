@@ -27,7 +27,5 @@ This is a simple AI chatbot project developed using Python.The chatbot can answe
    python app.py
    
 
-## Your name
-Manvir kaur
-
-Your Name
+##Your Name
+Manvir Kaur
